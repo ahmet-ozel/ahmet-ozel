@@ -9,6 +9,11 @@
   otonom LLM ajanları ve bunları taşıyan full-stack platformlar.
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmet-ozel-5561a123a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ahmet.ozel@protonmail.com"><img src="https://img.shields.io/badge/Email-8B89CC?logo=protonmail&logoColor=white" alt="Email" /></a>
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -17,7 +22,7 @@
 - 👁️ **Bilgisayarlı görü** alanında gerçek-zamanlı tespit/OCR (YOLO, ONNX) çözümleri geliştiriyorum
 - 🧠 RAG pipeline'ları, vektör arama ve LLM değerlendirme metrikleri ile ilgileniyorum
 - 🛠️ Python + .NET + TypeScript ile uçtan uca (model → API → arayüz) ürünler kuruyorum
-- 📫 İletişim: **[e-posta adresinizi ekleyin]** · [LinkedIn profilinizi ekleyin]
+- 📫 İletişim: **ahmet.ozel@protonmail.com** · [LinkedIn](https://www.linkedin.com/in/ahmet-ozel-5561a123a/)
 
 ---
 
@@ -63,8 +68,8 @@
 </p>
 
 <!--
-İPUCU: Aşağıdaki alanları profilini güçlendirmek için doldur:
-- E-posta ve LinkedIn linkini yukarıya ekle
+İPUCU: Profilini daha da güçlendirmek için:
 - GitHub Settings > Profile bölümünden Name, Bio, Location alanlarını doldur
 - "Available for hire" işaretini aç
+- En güçlü 6 projeni profilinde "pin"le
 -->
