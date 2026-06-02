@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  Üretime yakın yapay zeka sistemleri kuruyorum: bilgisayarlı görü, RAG mimarileri,
-  otonom LLM ajanları ve bunları taşıyan full-stack platformlar.
+  I build production-grade AI systems: computer vision, RAG architectures,
+  autonomous LLM agents, and the full-stack platforms that carry them.
 </p>
 
 <p align="center">
@@ -18,11 +18,11 @@
 
 ### 🚀 About Me
 
-- 🔭 Şu an **otonom LLM ajanları** ve **agentic RAG** sistemleri üzerinde çalışıyorum
-- 👁️ **Bilgisayarlı görü** alanında gerçek-zamanlı tespit/OCR (YOLO, ONNX) çözümleri geliştiriyorum
-- 🧠 RAG pipeline'ları, vektör arama ve LLM değerlendirme metrikleri ile ilgileniyorum
-- 🛠️ Python + .NET + TypeScript ile uçtan uca (model → API → arayüz) ürünler kuruyorum
-- 📫 İletişim: **ahmet.ozel@protonmail.com** · [LinkedIn](https://www.linkedin.com/in/ahmet-ozel-5561a123a/)
+- 🔭 Currently working on **autonomous LLM agents** and **agentic RAG** systems
+- 👁️ Building real-time detection/OCR solutions in **computer vision** (YOLO, ONNX)
+- 🧠 Interested in RAG pipelines, vector search and LLM evaluation metrics
+- 🛠️ Building end-to-end products (model → API → UI) with Python, .NET and TypeScript
+- 📫 Contact: **ahmet.ozel@protonmail.com** · [LinkedIn](https://www.linkedin.com/in/ahmet-ozel-5561a123a/)
 
 ---
 
@@ -50,13 +50,13 @@
 
 ### 📌 Featured Projects
 
-| Proje | Açıklama | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| 🚗 **[plakanet](https://github.com/ahmet-ozel/plakanet)** | Otoparklar ve site girişleri için yapay zeka destekli plaka tanıma (LPR/ANPR) | YOLOv11, CCT-S OCR, ONNX DirectML, WinUI 3, .NET 8 |
-| 📚 **[rag-master-class](https://github.com/ahmet-ozel/rag-master-class)** | Klasik &amp; agentic RAG demo'su; doküman parçalama, vektör arama, RAG değerlendirme | ChromaDB, OpenAI, Gemini, Claude, Ollama, vLLM |
-| 🤖 **[ai-developer-agent](https://github.com/ahmet-ozel/ai-developer-agent)** | Jira görevlerini okuyup kod üreten ve PR açan otonom AI ajanı | Python, LLM, MCP, GitHub/GitLab/Bitbucket |
-| 🎧 **[agentdesk](https://github.com/ahmet-ozel/agentdesk)** | Müşteri destek otomasyonu için agentic RAG platformu | FastAPI, Qdrant, LLM agents |
-| ⚙️ **[platform](https://github.com/ahmet-ozel/platform)** | Atlassian tabanlı çok-departmanlı AI iş akışı otomasyon platformu | Temporal, MCP, Docker Compose, Streamlit |
+| 🚗 **[plakanet](https://github.com/ahmet-ozel/plakanet)** | AI-powered license plate recognition (LPR/ANPR) for parking lots and site entrances | YOLOv11, CCT-S OCR, ONNX DirectML, WinUI 3, .NET 8 |
+| 📚 **[rag-master-class](https://github.com/ahmet-ozel/rag-master-class)** | Classical &amp; agentic RAG demo; document chunking, vector search, RAG evaluation | ChromaDB, OpenAI, Gemini, Claude, Ollama, vLLM |
+| 🤖 **[ai-developer-agent](https://github.com/ahmet-ozel/ai-developer-agent)** | Autonomous AI agent that reads Jira tasks, generates code and opens PRs | Python, LLM, MCP, GitHub/GitLab/Bitbucket |
+| 🎧 **[agentdesk](https://github.com/ahmet-ozel/agentdesk)** | Agentic RAG platform for customer support automation | FastAPI, Qdrant, LLM agents |
+| ⚙️ **[platform](https://github.com/ahmet-ozel/platform)** | Atlassian-based multi-department AI workflow automation platform | Temporal, MCP, Docker Compose, Streamlit |
 
 ---
 
@@ -68,8 +68,8 @@
 </p>
 
 <!--
-İPUCU: Profilini daha da güçlendirmek için:
-- GitHub Settings > Profile bölümünden Name, Bio, Location alanlarını doldur
-- "Available for hire" işaretini aç
-- En güçlü 6 projeni profilinde "pin"le
+TIP: To strengthen your profile further:
+- Fill in Name, Bio and Location under GitHub Settings > Profile
+- Enable the "Available for hire" flag
+- Pin your strongest 6 projects on your profile
 -->
