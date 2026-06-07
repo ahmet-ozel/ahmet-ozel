@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ahmet 👋</h1>
+<h1 align="center">Hi, I'm Ahmet</h1>
 
 <p align="center">
   <b>AI / ML Engineer · Computer Vision · RAG &amp; LLM Agents</b>
@@ -16,17 +16,17 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🔭 Currently working on **autonomous LLM agents** and **agentic RAG** systems
-- 👁️ Building real-time detection/OCR solutions in **computer vision** (YOLO, ONNX)
-- 🧠 Interested in RAG pipelines, vector search and LLM evaluation metrics
-- 🛠️ Building end-to-end products (model → API → UI) with Python, .NET and TypeScript
-- 📫 Contact: **ahmet.ozel@protonmail.com** · [LinkedIn](https://www.linkedin.com/in/ahmet-ozel-5561a123a/)
+- Currently working on **autonomous LLM agents** and **agentic RAG** systems
+- Building real-time detection/OCR solutions in **computer vision** (YOLO, ONNX)
+- Interested in RAG pipelines, vector search and LLM evaluation metrics
+- Building end-to-end products (model  API  UI) with Python, .NET and TypeScript
+- Contact: **ahmet.ozel@protonmail.com** · [LinkedIn](https://www.linkedin.com/in/ahmet-ozel-5561a123a/)
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
@@ -48,19 +48,19 @@
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| 🚗 **[plakanet](https://github.com/ahmet-ozel/plakanet)** | AI-powered license plate recognition (LPR/ANPR) for parking lots and site entrances | YOLOv11, CCT-S OCR, ONNX DirectML, WinUI 3, .NET 8 |
-| 📚 **[rag-master-class](https://github.com/ahmet-ozel/rag-master-class)** | Classical &amp; agentic RAG demo; document chunking, vector search, RAG evaluation | ChromaDB, OpenAI, Gemini, Claude, Ollama, vLLM |
-| 🤖 **[ai-developer-agent](https://github.com/ahmet-ozel/ai-developer-agent)** | Autonomous AI agent that reads Jira tasks, generates code and opens PRs | Python, LLM, MCP, GitHub/GitLab/Bitbucket |
-| 🎧 **[agentdesk](https://github.com/ahmet-ozel/agentdesk)** | Agentic RAG platform for customer support automation | FastAPI, Qdrant, LLM agents |
-| ⚙️ **[platform](https://github.com/ahmet-ozel/platform)** | Atlassian-based multi-department AI workflow automation platform | Temporal, MCP, Docker Compose, Streamlit |
+|  **[plakanet](https://github.com/ahmet-ozel/plakanet)** | AI-powered license plate recognition (LPR/ANPR) for parking lots and site entrances | YOLOv11, CCT-S OCR, ONNX DirectML, WinUI 3, .NET 8 |
+|  **[rag-master-class](https://github.com/ahmet-ozel/rag-master-class)** | Classical &amp; agentic RAG demo; document chunking, vector search, RAG evaluation | ChromaDB, OpenAI, Gemini, Claude, Ollama, vLLM |
+|  **[ai-developer-agent](https://github.com/ahmet-ozel/ai-developer-agent)** | Autonomous AI agent that reads Jira tasks, generates code and opens PRs | Python, LLM, MCP, GitHub/GitLab/Bitbucket |
+|  **[agentdesk](https://github.com/ahmet-ozel/agentdesk)** | Agentic RAG platform for customer support automation | FastAPI, Qdrant, LLM agents |
+|  **[platform](https://github.com/ahmet-ozel/platform)** | Atlassian-based multi-department AI workflow automation platform | Temporal, MCP, Docker Compose, Streamlit |
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmet-ozel&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
