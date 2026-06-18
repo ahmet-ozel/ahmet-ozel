@@ -53,10 +53,10 @@
 | Project | Description | Stack |
 |---|---|---|
 |  **[plakanet](https://github.com/ahmet-ozel/plakanet)** | AI-powered license plate recognition (LPR/ANPR) for parking lots and site entrances | YOLOv11, CCT-S OCR, ONNX DirectML, WinUI 3, .NET 8 |
-|  **[rag-master-class](https://github.com/ahmet-ozel/rag-master-class)** | Classical &amp; agentic RAG demo; document chunking, vector search, RAG evaluation | ChromaDB, OpenAI, Gemini, Claude, Ollama, vLLM |
-|  **[ai-developer-agent](https://github.com/ahmet-ozel/ai-developer-agent)** | Autonomous AI agent that reads Jira tasks, generates code and opens PRs | Python, LLM, MCP, GitHub/GitLab/Bitbucket |
-|  **[agentdesk](https://github.com/ahmet-ozel/agentdesk)** | Agentic RAG platform for customer support automation | FastAPI, Qdrant, LLM agents |
-|  **[platform](https://github.com/ahmet-ozel/platform)** | Atlassian-based multi-department AI workflow automation platform | Temporal, MCP, Docker Compose, Streamlit |
+|  **[rag-architecture-guide](https://github.com/ahmet-ozel/rag-architecture-guide)** | Classical &amp; agentic RAG demo; document chunking, vector search, RAG evaluation | ChromaDB, OpenAI, Gemini, Claude, Ollama, vLLM |
+|  **[jira-autonomous-coding-agent](https://github.com/ahmet-ozel/jira-autonomous-coding-agent)** | Autonomous AI agent that reads Jira tasks, generates code and opens PRs | Python, LLM, MCP, GitHub/GitLab/Bitbucket |
+|  **[agentic-rag-customer-support](https://github.com/ahmet-ozel/agentic-rag-customer-support)** | Agentic RAG platform for customer support automation | FastAPI, Qdrant, LLM agents |
+|  **[atlassian-ai-workflow-platform](https://github.com/ahmet-ozel/atlassian-ai-workflow-platform)** | Atlassian-based multi-department AI workflow automation platform | Temporal, MCP, Docker Compose, Streamlit |
 
 ---
 
