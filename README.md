@@ -1,30 +1,30 @@
-<h1 align="center">Hi, I'm Ahmet</h1>
+<h1 align="center">Ahmet Özel</h1>
 
 <p align="center">
-  <b>AI / ML Engineer · Computer Vision · RAG &amp; LLM Agents</b>
+  <b>AI Engineer &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; RAG &amp; LLM Agents &nbsp;·&nbsp; MCP</b>
 </p>
 
 <p align="center">
-  I build production-grade AI systems: computer vision, RAG architectures,
-  autonomous LLM agents, and the full-stack platforms that carry them.
+  I build and ship production AI systems end to end: computer vision (ANPR/OCR, detection),
+  retrieval-augmented generation, and autonomous LLM agents, including the backends and UIs that carry them.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmet-ozel-5561a123a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ahmet.ozel@protonmail.com"><img src="https://img.shields.io/badge/Email-8B89CC?logo=protonmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Based%20in-Istanbul,%20T%C3%BCrkiye-555" alt="Location" />
 </p>
 
 ---
 
-### About Me
+### About
 
-- Currently working on **autonomous LLM agents** and **agentic RAG** systems
-- Building real-time detection/OCR solutions in **computer vision** (YOLO, ONNX)
-- Interested in RAG pipelines, vector search and LLM evaluation metrics
-- Building end-to-end products (model  API  UI) with Python, .NET and TypeScript
-- Contact: **ahmet.ozel@protonmail.com** · [LinkedIn](https://www.linkedin.com/in/ahmet-ozel-5561a123a/)
-
----
+- 4+ years building and shipping production AI systems, from model training to deployment and monitoring.
+- Computer vision: license-plate recognition (ANPR/OCR), object detection, edge inference with YOLO, ONNX and DirectML.
+- LLM and RAG: document chunking, embedding retrieval, reranking, evaluation, agentic workflows and MCP.
+- Backend and infrastructure: Python, FastAPI, .NET, Docker, PostgreSQL, AWS and GCP.
+- Shipped a commercial ANPR desktop product and several open-source AI projects (see below).
+- Based in Istanbul, Türkiye. Open to remote work and relocation.
 
 ### Tech Stack
 
@@ -41,7 +41,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
-![LangChain-style RAG](https://img.shields.io/badge/RAG-6E56CF)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-6E56CF)
@@ -51,12 +51,13 @@
 ### Featured Projects
 
 | Project | Description | Stack |
-|---|---|---|
-|  **[plakanet](https://github.com/ahmet-ozel/plakanet)** | AI-powered license plate recognition (LPR/ANPR) for parking lots and site entrances | YOLOv11, CCT-S OCR, ONNX DirectML, WinUI 3, .NET 8 |
-|  **[rag-architecture-guide](https://github.com/ahmet-ozel/rag-architecture-guide)** | Classical &amp; agentic RAG demo; document chunking, vector search, RAG evaluation | ChromaDB, OpenAI, Gemini, Claude, Ollama, vLLM |
-|  **[jira-autonomous-coding-agent](https://github.com/ahmet-ozel/jira-autonomous-coding-agent)** | Autonomous AI agent that reads Jira tasks, generates code and opens PRs | Python, LLM, MCP, GitHub/GitLab/Bitbucket |
-|  **[agentic-rag-customer-support](https://github.com/ahmet-ozel/agentic-rag-customer-support)** | Agentic RAG platform for customer support automation | FastAPI, Qdrant, LLM agents |
-|  **[atlassian-ai-workflow-platform](https://github.com/ahmet-ozel/atlassian-ai-workflow-platform)** | Atlassian-based multi-department AI workflow automation platform | Temporal, MCP, Docker Compose, Streamlit |
+|---------|-------------|-------|
+| **[plakanet](https://github.com/ahmet-ozel/plakanet)** | Commercial AI license-plate recognition (LPR/ANPR) for parking lots and site entrances | YOLOv11, CCT-S OCR, ONNX DirectML, WinUI 3, .NET 8 |
+| **[atlassian-ai-workflow-platform](https://github.com/ahmet-ozel/atlassian-ai-workflow-platform)** | Multi-department AI workflow automation across Jira, Confluence and Bitbucket | Temporal, MCP, FastAPI, Docker Compose, Streamlit |
+| **[turkish-rag-retrieval-benchmark](https://github.com/ahmet-ozel/turkish-rag-retrieval-benchmark)** | End-to-end Turkish RAG pipeline benchmarking 25+ retrieval models | Chunking, embeddings, reranking, evaluation |
+| **[agentic-rag-customer-support](https://github.com/ahmet-ozel/agentic-rag-customer-support)** | Agentic RAG platform for customer-support automation | FastAPI, Qdrant, LangGraph, MCP |
+| **[rag-architecture-guide](https://github.com/ahmet-ozel/rag-architecture-guide)** | Classical and agentic RAG reference with chunking, vector search and evaluation | ChromaDB, OpenAI, Gemini, Claude, Ollama, vLLM |
+| **[jira-autonomous-coding-agent](https://github.com/ahmet-ozel/jira-autonomous-coding-agent)** | Agent that reads Jira tasks, generates code and opens pull requests | Python, LLM, MCP, GitHub/GitLab/Bitbucket |
 
 ---
 
@@ -66,10 +67,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ahmet-ozel&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmet-ozel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </p>
-
-<!--
-TIP: To strengthen your profile further:
-- Fill in Name, Bio and Location under GitHub Settings > Profile
-- Enable the "Available for hire" flag
-- Pin your strongest 6 projects on your profile
--->
